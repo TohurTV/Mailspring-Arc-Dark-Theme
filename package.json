@@ -1,10 +1,10 @@
 {
-  "name": "theme-starter",
-  "title": "Starter Theme",
-  "displayName": "Starter Theme",
+  "name": "arc-dark-theme",
+  "title": "Arc Dark Theme",
+  "displayName": "Arc Dark Theme",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "A great dark theme to start your own themes.",
+  "description": "A great dark theme based on the Arc-Dark GTK theme.",
   "license": "MIT",
   "engines": {
     "mailspring": "*"
